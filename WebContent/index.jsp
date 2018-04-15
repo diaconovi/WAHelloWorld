@@ -15,6 +15,6 @@ div.ex {
 }
 </style>
 <body>
-	<h1>El Emmanuel y sus 50 aldeanos ya echo a andar el deploy con UCD</h1>
+	<h1>El Emmanuel y sus 50 aldeanos ya echó a andar el deploy con UCD</h1>
 </body>
 </html>
