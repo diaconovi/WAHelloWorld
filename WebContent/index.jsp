@@ -15,6 +15,6 @@ div.ex {
 }
 </style>
 <body>
-	<h1>HelloWorld</h1>
+	<h1>Hoooola</h1>
 </body>
 </html>
