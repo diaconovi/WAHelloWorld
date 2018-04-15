@@ -15,41 +15,6 @@ div.ex {
 }
 </style>
 <body>
-	<h1>Student Registration Form</h1>
-	<div class="ex">
-		<form action="registrationController" method="post">
-			<table style="with: 50%">
-				<tr>
-					<td>Student Full Name</td>
-					<td><input type="text" name="fullname"/></td>
-				</tr>
-				<tr>
-					<td>Student Father Name</td>
-					<td><input type="text" name="fullname"/></td>
-				</tr>
-				<tr>
-					<td>Student Permanent Address</td>
-					<td><input type="text" name="address"/></td>
-				</tr>
-				<tr>
-					<td>Student Age</td>
-					<td><input type="text" name="age"/></td>
-				</tr>
-				<tr>
-					<td>Student Qualification</td>
-					<td><input type="text" name="qual"/></td>
-				</tr>
-				<tr>
-					<td>Student Percentage</td>
-					<td><input type="text" name="percent"/></td>
-				</tr>
-				<tr>
-					<td>The Year Passed</td>
-					<td><input type="text" name="yop"/></td>
-				</tr>
-			</table>
-			<input type="submit" value="register"/>
-		</form>
-	</div>
+	<h1>HelloWorld</h1>
 </body>
 </html>
